@@ -12,3 +12,6 @@ We'll begin by reading Rich Sutton's piece ["The Bitter Lesson"](http://www.inco
 
 ### Redefining Humanity
 How does this reading update our initial reflections on what does it mean to be human in relation to AI? 
+
+### Go Further
+Check out [this video](https://www.youtube.com/watch?v=2hcsmtkSzIw&t=119s) about the Bitter Lesson. 
