@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import matplotlib; matplotlib.use\\(''Agg''\\); exec\\(open\\(''day2/01_artificial_neuron.py''\\).read\\(\\).replace\\(''plt.show\\(\\)'',''fig.savefig\\(\"\"test_output.png\"\", dpi=80\\)''\\)\\)\")",
+      "Bash(python -c \"import matplotlib; matplotlib.use\\(''Agg''\\); exec\\(open\\(''day2/01_artificial_neuron.py''\\).read\\(\\).replace\\(''plt.show\\(\\)'',''fig.savefig\\(\"\"test_output.png\"\", dpi=100\\)''\\)\\)\")",
+      "Bash(python:*)"
+    ]
+  }
+}
