@@ -3,3 +3,6 @@
 
 # ignore drafts folder 
 drafts/
+
+# ignore lectures
+lectures/
